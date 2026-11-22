@@ -100,10 +100,8 @@
 
 ```
 md3-music-player/
-├── MD3音乐播放器.html            手机版（单文件）
-├── MD3音乐播放器-电脑版.html      电脑版（单文件，html.desk 皮肤）
-├── MD3音乐播放器-源码.txt         手机版源码
-├── MD3音乐播放器-电脑版-源码.txt   电脑版源码
+├── Echo-Music-phone.html            手机版（单文件）
+├── Echo-Music-pc.html               电脑版（单文件，html.desk 皮肤）
 ├── README.md
 └── webcatx-native/
     ├── CatMediaBridge.kt          MediaSession + 前台服务 + 通知 + JS 桥 + HTTP 代理
